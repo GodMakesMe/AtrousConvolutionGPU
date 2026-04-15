@@ -142,10 +142,3 @@ This writes:
 
 - `results/speedup_vs_dilation.png`
 - `results/blocksize_speedup.png`
-
-## Next Improvements
-
-- Add OpenCV input/output for real image files
-- Add multi-channel (RGB) support
-- Add a constant-memory + separable-filter variant
-- Add kernel-level profiling export (Nsight data)
